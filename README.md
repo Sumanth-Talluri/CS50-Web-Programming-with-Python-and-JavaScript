@@ -6,8 +6,6 @@
   </a>
 </div>
 
- &nbsp;
-
 Lecture materials, source code, and link to my project repositories of the course CS50’s Web Programming with Python and JavaScript.
 
 ## Project 0 Search
