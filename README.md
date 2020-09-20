@@ -70,3 +70,15 @@ Designing and implementing a web application of your own with Python and JavaScr
 :computer: &nbsp; **View Code [here](https://www.hackerrank.com/domains/tutorials/30-days-of-code)**
 
 :arrow_forward: &nbsp; **View Live Demo [here](https://www.hackerrank.com/TalluriSumanth22)** 
+
+&nbsp;
+
+### Contribute
+
+Contributions are always welcome! Please create a PR to contribute.
+
+### :pencil: &nbsp; License
+
+This repository is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
+### :man_astronaut: &nbsp; Show your support
