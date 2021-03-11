@@ -13,13 +13,13 @@ Lecture materials, source code, and link to my project repositories of the cours
 
 &nbsp;
 
-## Project 0 Search
+## Project 0 Homepage
 
 Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
-:computer: &nbsp; **View Code [here](https://www.hackerrank.com/domains/tutorials/30-days-of-code)**
+:computer: &nbsp; **View Code [here](https://github.com/Sumanth-Talluri/CS50w-Project0)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://www.hackerrank.com/TalluriSumanth22)** 
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/oDsHi2ekC08)** 
 
 &nbsp;
 
@@ -29,7 +29,7 @@ Design a Wikipedia-like online encyclopedia.
 
 :computer: &nbsp; **View Code [here](https://github.com/Sumanth-Talluri/CS50w-Wiki)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://www.youtube.com/watch?v=CtuUdZtPxik)** 
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/CtuUdZtPxik)** 
 
 &nbsp;
 
@@ -39,7 +39,7 @@ Design an eBay-like e-commerce auction site that will allow users to post auctio
 
 :computer: &nbsp; **View Code [here](https://github.com/Sumanth-Talluri/CS50w-Commerce)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://www.youtube.com/watch?v=_oQ1NRAiidI&t=118s)** 
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/_oQ1NRAiidI)** 
 
 &nbsp;
 
@@ -47,9 +47,9 @@ Design an eBay-like e-commerce auction site that will allow users to post auctio
 
 Design a front-end for an email client that makes API calls to send and receive emails.
 
-:computer: &nbsp; **View Code [here](https://www.hackerrank.com/domains/tutorials/30-days-of-code)**
+:computer: &nbsp; **View Code [here](https://github.com/Sumanth-Talluri/CS50w-Mail)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://www.hackerrank.com/TalluriSumanth22)** 
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/WaYC_SCQztU)** 
 
 &nbsp;
 
@@ -57,9 +57,9 @@ Design a front-end for an email client that makes API calls to send and receive 
 
 Design a Twitter-like social network website for making posts and following users.
 
-:computer: &nbsp; **View Code [here](https://www.hackerrank.com/domains/tutorials/30-days-of-code)**
+:computer: &nbsp; **View Code [here](https://github.com/Sumanth-Talluri/CS50w-Network)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://www.hackerrank.com/TalluriSumanth22)** 
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/4H7dKx5h3Bo)** 
 
 &nbsp;
 
@@ -67,9 +67,9 @@ Design a Twitter-like social network website for making posts and following user
 
 Designing and implementing a web application of your own with Python and JavaScript.
 
-:computer: &nbsp; **View Code [here](https://www.hackerrank.com/domains/tutorials/30-days-of-code)**
+:computer: &nbsp; **View Code [here](https://github.com/Sumanth-Talluri/CS50w-Capstone)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://www.hackerrank.com/TalluriSumanth22)** 
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/FP2xJ-0CMZc)** 
 
 &nbsp;
 
